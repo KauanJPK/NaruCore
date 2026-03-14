@@ -1,0 +1,30 @@
+name: NaruCore
+version: 1.0
+main: NaruCore
+author: KauanJPK
+
+commands:
+
+  ban:
+    description: Banir jogador
+    usage: /ban
+
+  kick:
+    description: Kickar jogador
+    usage: /kick
+
+  mute:
+    description: Mutar jogador
+    usage: /mute
+
+  ping:
+    description: Ver ping
+    usage: /ping
+
+  discord:
+    description: Sistema Discord
+    usage: /discord link
+
+  discordbridge:
+    description: Configurar canal Discord
+    usage: /discordbridge setchannel

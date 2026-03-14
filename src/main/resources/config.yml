@@ -1,0 +1,4 @@
+api:
+  url: "gaming-12.bedhosting.com.br:13241"
+  jwtSecret: "SUPER_SECRET"
+  serverId: ""
